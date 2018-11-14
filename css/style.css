@@ -416,14 +416,14 @@ body table {
   width: 100%;
   border-collapse: collapse;
   text-align: left;
-  font-size: 24px;
+  font-size: 14px;
 }
 body th {
   padding: 8px;
   border-bottom: 1px dashed $color-code-border;
   color: #383838;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 15px;
 }
 body td {
   padding: 9px 8px 0;
@@ -453,7 +453,7 @@ body {
   color: #383838;
   font-display: swap;
   font-weight: 400;
-  font-size: 26px;
+  font-size: 16px;
   font-family: "Menlo", "Meslo LG", monospace;
   line-height: 1.725;
   text-rendering: geometricPrecision;
